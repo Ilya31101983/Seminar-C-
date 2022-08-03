@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\bin\Debug\net6.0\Paty1.exe
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\bin\Debug\net6.0\Paty1.deps.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\bin\Debug\net6.0\Paty1.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\bin\Debug\net6.0\Paty1.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\bin\Debug\net6.0\Paty1.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\refint\Paty1.dll
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.pdb
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\Paty1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Seminar C#\Seminar01\Test\Paty1\obj\Debug\net6.0\ref\Paty1.dll
